@@ -1,0 +1,145 @@
+[
+    {
+        "name": "Civilian",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Sword",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Gunpowder",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Archery",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Ranged Gunpowder",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Scout",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Mounted",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Armored",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Siege",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Civilian Water",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Melee Water",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Ranged Water",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Submarine",
+        "movementType": "Water",
+        "uniques": ["Can enter ice tiles", "Invisible to non-adjacent units", "Can see invisible [Submarine] units", "Automation is a primary action"]
+    },
+    {
+        "name": "Aircraft Carrier",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action", "Automation is a primary action"]
+    },
+    {
+        "name": "Fighter",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "[+4] Sight", "Can see over obstacles", "Can perform Air Sweep", "Automation is a primary action"]
+    },
+    {
+        "name": "Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "Automation is a primary action"]
+    },
+    {
+        "name": "Atomic Bomber",
+        "movementType": "Air",
+        "uniques": ["Aircraft", "Automation is a primary action"]
+    },
+    {
+        "name": "Missile",
+        "movementType": "Air",
+        "uniques": ["Self-destructs when attacking", "Cannot be intercepted", "Automation is a primary action"]
+    },
+    {
+        "name": "Helicopter",
+        "movementType": "Land",
+        "uniques": ["Can pass through impassable tiles", "Automation is a primary action"]
+    },
+
+    // Deprecated unit types required for mods without a UnitTypes.json file to work
+
+    {
+        "name": "Melee",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Ranged",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "Armor",
+        "movementType": "Land",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "WaterCivilian",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "WaterMelee",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "WaterRanged",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "WaterSubmarine",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "WaterAircraftCarrier",
+        "movementType": "Water",
+        "uniques": ["Automation is a primary action"]
+    },
+    {
+        "name": "AtomicBomber",
+        "movementType": "Air",
+        "uniques": ["Automation is a primary action"]
+    }
+]
